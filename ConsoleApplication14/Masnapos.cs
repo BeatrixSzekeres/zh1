@@ -52,5 +52,6 @@ namespace ConsoleApplication14
         {
             sebesseg++;
         }
+        void Startpisztoly.Vege() { }
     }
 }

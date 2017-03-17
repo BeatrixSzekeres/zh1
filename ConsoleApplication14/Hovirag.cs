@@ -34,5 +34,6 @@ namespace ConsoleApplication14
         {
             throw new NotImplementedException();
         }
+        void Startpisztoly.Vege() { }
     }
 }

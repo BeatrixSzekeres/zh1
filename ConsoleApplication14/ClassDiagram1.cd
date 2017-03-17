@@ -8,17 +8,17 @@
     </TypeIdentifier>
   </Class>
   <Class Name="ConsoleApplication14.CsacskaNyul">
-    <Position X="0.5" Y="3.75" Width="1.5" />
+    <Position X="0.5" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QAAAAAAAAAAAAAAAAAAQAAAAAAACAAACAAAAAEAAAAA=</HashCode>
+      <HashCode>QAAAAAAAAAAAAAAAAAAQAAAIAAACAAACAAAAAEAAAAA=</HashCode>
       <FileName>CsacskaNyul.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConsoleApplication14.ZsigaCsiga">
-    <Position X="2.75" Y="3.75" Width="1.5" />
+    <Position X="2.75" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <HashCode>QgAAAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAEAAAAA=</HashCode>
       <FileName>ZsigaCsiga.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -26,15 +26,15 @@
   <Class Name="ConsoleApplication14.TreMedve">
     <Position X="1.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QAAAAAAAAAAQAABAAAAAAAAAAAAAAAACAAAAAAAAACA=</HashCode>
+      <HashCode>QAAAAAAAAAAQAABAAAAAAAAIAAAAAAACAAAAAAAAACA=</HashCode>
       <FileName>TreMedve.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="ConsoleApplication14.Hovirag" BaseTypeListCollapsed="true">
+  <Class Name="ConsoleApplication14.Hovirag" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="8" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QAAAAAAAAAAQAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>QAAAAAAAAAAQAAAAAAgQAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Hovirag.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
@@ -42,44 +42,44 @@
   <Class Name="ConsoleApplication14.Barna">
     <Position X="5.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QAAAAAAAAAAAAAAAAAAQAAAAAQIAAAACAAAAAEAAAAA=</HashCode>
+      <HashCode>QAAAAAAAAAAAAAAAAAAQAAAIAQIAAAACAAAAAEAAAAA=</HashCode>
       <FileName>Barna.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConsoleApplication14.Para" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="4" Y="1.75" Width="1.5" />
+    <Position X="8" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QAAAAAAAACAAAAAAAAAQAAAABQAAAAAAAAAAAIAAAAA=</HashCode>
+      <HashCode>QAAAAAAAACAAAAAAAAAQAAAIBQAAAAAAAAAAAIAAAAA=</HashCode>
       <FileName>Para.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="ConsoleApplication14.Masnapos" BaseTypeListCollapsed="true">
+  <Class Name="ConsoleApplication14.Masnapos" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="9.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QEAAAAAAASBAAAAAAAAQAAAAAQAAAAACAAAAAAAAAAA=</HashCode>
+      <HashCode>QEAAAAAAASBAAAAAAAAQAAAIAQAAAAACAAAAAAAAAAA=</HashCode>
       <FileName>Masnapos.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="ConsoleApplication14.Bolha">
-    <Position X="5.5" Y="3.75" Width="1.5" />
+    <Position X="5.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAACAAAAAAAAAUAAAABAAAAAACAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAACAAAAAAAAAUAAAIBAAAAAACAAAAAAAAAAA=</HashCode>
       <FileName>Bolha.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Interface Name="ConsoleApplication14.Startpisztoly">
-    <Position X="3.5" Y="0.5" Width="1.5" />
+  <Interface Name="ConsoleApplication14.Startpisztoly" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAQAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Startpisztoly.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Enum Name="ConsoleApplication14.Sorszamok" Collapsed="true">
-    <Position X="8" Y="4.5" Width="1.5" />
+    <Position X="8" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ABIABAAAAAAFAQAAAAAAAAAAACAgAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Sorszamok.cs</FileName>

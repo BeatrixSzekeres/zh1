@@ -45,5 +45,6 @@ namespace ConsoleApplication14
             lepesszam++;
             sebesseg++;
         }
+        void Startpisztoly.Vege() { }
     }
 }

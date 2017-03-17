@@ -20,6 +20,7 @@ namespace ConsoleApplication14
 
         void Startpisztoly.Eldordules()
         { }
+        void Startpisztoly.Vege() { }
 
         public void HazabaKenyszerul()
         {

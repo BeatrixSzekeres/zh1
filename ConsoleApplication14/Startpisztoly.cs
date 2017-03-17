@@ -9,6 +9,6 @@ namespace ConsoleApplication14
     {
         
         void Eldordules();
-        
+        void Vege();
     }
 }
