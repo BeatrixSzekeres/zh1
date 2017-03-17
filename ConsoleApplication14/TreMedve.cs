@@ -10,6 +10,12 @@ namespace ConsoleApplication14
         private int labakSzama = 4;
         private int sebesseg;
 
+        public TreMedve(int Sorszam,int Sebesseg,int labatlseb)
+        {
+            Sorszam = Sorszamok.TreMedve;
+            labatlseb = LabSebesseg;
+        }
+
         public int LabSebesseg
         {
 

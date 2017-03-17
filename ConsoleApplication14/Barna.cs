@@ -10,6 +10,13 @@ namespace ConsoleApplication14
         public int sebesseg = 0;
         private int lepesszam = 0;
         private int labakszama = 4;
+
+        public Barna(int sorszam, int sebesseg, int labatlseb)
+        {
+            sorszam = Sorszamok.Barna;
+            labatlseb = Labsebes;
+        }
+
         public int Labsebes
         {
             get

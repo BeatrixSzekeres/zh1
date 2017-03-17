@@ -10,6 +10,13 @@ namespace ConsoleApplication14
         private int lepesszam = 0;
         private int labakSzAma = 4;
         private int sebesseg = 0;
+
+        public Para(int Sorszam, int sebesseg, int labatlseb)
+        {
+            Sorszam = Sorszamok.Para;
+            labatlseb = Lab;
+        }
+
         public int Lab
         {
             get
@@ -33,6 +40,9 @@ namespace ConsoleApplication14
             sebesseg++;
         }
 
-
+        void Startpisztoly.Eldordules()
+        {
+            sebesseg++;
+        }
     }
 }

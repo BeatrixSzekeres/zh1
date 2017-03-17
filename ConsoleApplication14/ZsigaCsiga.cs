@@ -7,6 +7,10 @@ namespace ConsoleApplication14
 {
     public class ZsigaCsiga : TreMedve, Startpisztoly
     {
+        public ZsigaCsiga()
+        {
+            throw new System.NotImplementedException();
+        }
 
         public void Sebesseg()
         {

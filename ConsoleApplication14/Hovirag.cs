@@ -8,6 +8,13 @@ namespace ConsoleApplication14
     public class Hovirag : Startpisztoly
     {
         private int sebesseg = 0;
+       
+
+        public Hovirag( int Sorszam,int sebesseg)
+        {
+             Sorszam = Sorszamok.Hovirag;
+        }
+
         public bool  Eldordules()
         {
             throw new NotImplementedException();

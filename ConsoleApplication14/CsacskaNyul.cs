@@ -9,6 +9,13 @@ namespace ConsoleApplication14
     {
         private int labakszama = 4;
         private double sebesseg=0;
+
+        public CsacskaNyul(int Sorszam, int sebesseg, double labatlseb)
+        {
+            Sorszam = Sorszamok.CsacskaNyul;
+            labatlseb = LabSeb;
+        }
+
         public double LabSeb
         {
             get

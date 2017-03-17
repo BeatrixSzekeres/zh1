@@ -7,6 +7,8 @@ namespace ConsoleApplication14
 {
     public interface Startpisztoly
     {
+        
         void Eldordules();
+        
     }
 }
