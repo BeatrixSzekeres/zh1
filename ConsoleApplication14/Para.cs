@@ -5,13 +5,16 @@ using System.Text;
 
 namespace ConsoleApplication14
 {
-    public class Para
+    public class Para : Startpisztoly
     {
+        private int lepesszam = 0;
+        private int labakSzAma = 4;
+        private int sebesseg = 0;
         public int Lab
         {
             get
             {
-                throw new System.NotImplementedException();
+                return sebesseg / labakSzAma;
             }
 
             set
@@ -20,17 +23,16 @@ namespace ConsoleApplication14
         }
         public void Varakozas()
         {
-            throw new System.NotImplementedException();
+
+            sebesseg = 0;
         }
 
         public void Atsprinteles()
         {
-            throw new System.NotImplementedException();
+            lepesszam++;
+            sebesseg++;
         }
 
-        public void Sebesseg()
-        {
-            throw new System.NotImplementedException();
-        }
+
     }
 }

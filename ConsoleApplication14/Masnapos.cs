@@ -7,6 +7,7 @@ namespace ConsoleApplication14
 {
     public class Masnapos : Startpisztoly
     {
+        public int lepesszam = 0;
         private int sebesseg = 0;
         private int labakszama = 4;
         public int Lab
@@ -19,31 +20,30 @@ namespace ConsoleApplication14
             set
             {
             }
-        }
-
-        public void Eldordules()
-        {
-            throw new NotImplementedException();
-        }
+        }   
 
         public void Elorelepes()
         {
-            throw new System.NotImplementedException();
+            lepesszam = lepesszam + 2;
+            sebesseg++;
         }
 
         public void Hatralepes()
         {
-            throw new System.NotImplementedException();
+            lepesszam--;
+            sebesseg = 0;
         }
 
         public void MegallLevegozni()
         {
-            throw new System.NotImplementedException();
+            sebesseg = 0;
         }
 
-        public void Sebesseg()
+        
+
+        void Startpisztoly.Eldordules()
         {
-            throw new System.NotImplementedException();
+            sebesseg++;
         }
     }
 }

@@ -7,11 +7,25 @@ namespace ConsoleApplication14
 {
     public class Barna : Startpisztoly
     {
-        public int Lab
+        public int sebesseg = 0;
+        private int lepesszam = 0;
+        private int labakszama = 4;
+        public int Labsebes
         {
             get
             {
-                throw new System.NotImplementedException();
+                return sebesseg / labakszama;
+            }
+
+            set
+            {
+            }
+        }
+        public int Sebesseg
+        {
+            get
+            {
+                return sebesseg;
             }
 
             set
@@ -19,9 +33,10 @@ namespace ConsoleApplication14
             }
         }
 
-        public void Sebesseg()
+        void Startpisztoly.Eldordules()
         {
-            throw new System.NotImplementedException();
+            lepesszam++;
+            sebesseg++;
         }
     }
 }

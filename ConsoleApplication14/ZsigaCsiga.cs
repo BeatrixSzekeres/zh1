@@ -20,7 +20,7 @@ namespace ConsoleApplication14
         public void HazabaKenyszerul()
         {
             if (Elorditas() == true)
-                sebesseg--;
+                sebesseg = 0;
             else
                 sebesseg++;
         }

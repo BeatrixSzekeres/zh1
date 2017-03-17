@@ -5,13 +5,16 @@ using System.Text;
 
 namespace ConsoleApplication14
 {
-    public class Bolha : Barna
+    public class Bolha : Barna, Startpisztoly
     {
+        private int labakszama = 6;
+        private int sebess = 0;
+
         public int Lab
         {
             get
             {
-                throw new System.NotImplementedException();
+                return sebesseg / labakszama;
             }
 
             set
@@ -19,9 +22,20 @@ namespace ConsoleApplication14
             }
         }
 
-        public void Sebesseg()
+        public int Sebess
         {
-            throw new System.NotImplementedException();
+            get
+            {
+                return sebesseg;
+            }
+
+            set
+            {
+            }
+        }
+        void Startpisztoly.Eldordules()
+        {
+            sebesseg++;
         }
     }
 }

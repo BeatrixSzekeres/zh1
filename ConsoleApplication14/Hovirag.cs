@@ -7,6 +7,7 @@ namespace ConsoleApplication14
 {
     public class Hovirag : Startpisztoly
     {
+        private int sebesseg = 0;
         public bool  Eldordules()
         {
             throw new NotImplementedException();
@@ -17,7 +18,7 @@ namespace ConsoleApplication14
             
             if (Eldordules() == true)
             {
-                int sebesseg = 0;
+                 sebesseg = 0;
             }
 
         }
